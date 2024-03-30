@@ -9,7 +9,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # Vidyalai-Pdfupload
- # enter the project directory cd homeworks\vidyalai\pdfupload
  # install dependency npm install 
  # develop npm run dev
 >>>>>>> origin/main
